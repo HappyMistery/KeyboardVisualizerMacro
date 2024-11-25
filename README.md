@@ -18,5 +18,6 @@ Steps to use:
 ![image](https://github.com/user-attachments/assets/7aa50513-84bd-4d77-99a2-e264b76fbcf7)
 - Select the key you want to bind this toggle to and select the "LAUNCH" option to specify the path where you saved the batch file:
 ![image](https://github.com/user-attachments/assets/4a860f89-5d40-4ae3-875e-54d74649fe2e)
+(In my case I have it set up to fn+F7)
 
-HopwfullY this works for you :)
+Hopefully this works for you :)
